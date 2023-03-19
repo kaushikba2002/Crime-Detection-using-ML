@@ -18,4 +18,18 @@ body {
   .mine{
     color:#DEF2F1;
   }
+
+  .thiss{
+    text-align: center;
+    text-decoration: ;
+  }
   
+.card{
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+.card-text{
+  font-size: 1.5rem;
+}
